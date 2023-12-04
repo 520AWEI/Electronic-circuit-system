@@ -7,12 +7,5 @@ void Car::autoRun(){
     // robotarm.FromStoreToVir();
     // drive.move(70,100,0);
     // drive.move(70,-60,-100);
-    drive.rotate(70,720);
-    
-    
-    
-    
-    
-    
-    
+    drive.moveForwordByTime(10,-100);
 }
