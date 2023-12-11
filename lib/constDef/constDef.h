@@ -4,7 +4,7 @@
 // Motor Port
 const int PortMotorA1 = 9;
 const int PortMotorB1 = 10;
-const int PortMotorA2 = 11;
+const int PortMotorA2 = 5;
 const int PortMotorB2 = 12;
 
 // Motor Direction
