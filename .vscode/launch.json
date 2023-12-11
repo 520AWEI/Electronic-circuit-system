@@ -12,8 +12,8 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug",
-            "executable": "C:/prp43_programme/logisticCar_prp43/.pio/build/uno/firmware.elf",
-            "projectEnvName": "uno",
+            "executable": "C:/Users/ThinkPad/Desktop/大二上/电子电路系统实验/Bighomework/.pio/build/nanoatmega328new/firmware.elf",
+            "projectEnvName": "nanoatmega328new",
             "toolchainBinDir": "C:/Users/ThinkPad/.platformio/packages/toolchain-atmelavr/bin",
             "internalConsoleOptions": "openOnSessionStart",
             "preLaunchTask": {
@@ -25,8 +25,8 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (skip Pre-Debug)",
-            "executable": "C:/prp43_programme/logisticCar_prp43/.pio/build/uno/firmware.elf",
-            "projectEnvName": "uno",
+            "executable": "C:/Users/ThinkPad/Desktop/大二上/电子电路系统实验/Bighomework/.pio/build/nanoatmega328new/firmware.elf",
+            "projectEnvName": "nanoatmega328new",
             "toolchainBinDir": "C:/Users/ThinkPad/.platformio/packages/toolchain-atmelavr/bin",
             "internalConsoleOptions": "openOnSessionStart"
         },
@@ -34,8 +34,8 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (without uploading)",
-            "executable": "C:/prp43_programme/logisticCar_prp43/.pio/build/uno/firmware.elf",
-            "projectEnvName": "uno",
+            "executable": "C:/Users/ThinkPad/Desktop/大二上/电子电路系统实验/Bighomework/.pio/build/nanoatmega328new/firmware.elf",
+            "projectEnvName": "nanoatmega328new",
             "toolchainBinDir": "C:/Users/ThinkPad/.platformio/packages/toolchain-atmelavr/bin",
             "internalConsoleOptions": "openOnSessionStart",
             "loadMode": "manual"
