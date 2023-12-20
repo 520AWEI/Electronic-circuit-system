@@ -23,3 +23,7 @@ void motor::spin(double percent, dir dir) {
     digitalWrite(portB, dir);
     analogWrite(portA, percent / 100 * 255);
 }
+
+void motor::spin_2(double percent){
+    analogWrite(12,percent*255/100);
+}
